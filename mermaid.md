@@ -19,8 +19,11 @@ graph TD
     C -->|Three| F[fa:fa-car Car]
 ```
 
-- C4 model, haven't native supported by mermaid yet:
-Alternative: https://github.com/mermaid-js/mermaid/issues/1276#issuecomment-802139353
+- C4 model, haven't native supported by mermaid yet  
+Alternative:
+    * https://github.com/mermaid-js/mermaid/issues/1276#issuecomment-802139353
+    * https://structurizr.com/dsl?example=getting-started
+
 ```mermaid
 graph TB
   linkStyle default fill:#ffffff
